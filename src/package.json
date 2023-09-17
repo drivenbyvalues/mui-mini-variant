@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "clsx": "latest",
+    "polished": "3.5.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-perfect-scrollbar": "1.5.8",
+    "styled-components": "5.3.6"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v4.x/docs/src/pages/components/drawers/MiniDrawer.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "title": "Material demo",
+  "keywords": [],
+  "name": "mui-mini-variant-drawer"
+}
